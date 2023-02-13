@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd7b8506138bd9747aef4c32f3b71627, type: 3}
+  m_Name: ScriptablePopulationData
+  m_EditorClassIdentifier: 
+  personPrefab: {fileID: 1734903543758822, guid: 51d6f09c4aada4554a972165211005c2, type: 3}
+  _populationSize: 10
+  _trialTime: 10
+  _generation: 1
+  horizontalSpawnRange: {x: -9, y: 9}
+  verticalSpawnRange: {x: -4.5, y: 4.5}
